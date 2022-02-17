@@ -1,0 +1,6 @@
+
+
+
+
+
+00 22 * * * /opt/firebird/bin/gbak -b -g -v /databasebolder/database.fdb /backupfolder/backup.fbk > /dados/log-gbak.txt
