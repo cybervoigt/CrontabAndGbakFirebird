@@ -21,5 +21,6 @@ on Linux terminal (or ssl/putty) run the command "crontab -e" and insert this li
 At this example I defined to run/create the Firebird SQL backup daily at 10 p.m. 
 
 
-To save, press CTRL+O and ENTER to maintain the same file name
-To exit, press CTRL+X
+To save, press CTRL+O and ENTER to maintain the same file name.
+
+To exit, press CTRL+X.
