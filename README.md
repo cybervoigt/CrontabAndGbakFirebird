@@ -8,8 +8,8 @@ How config gbak Firebird command on Linux crontab
   │ ┌──────── hour (0 - 23)<br>
   │ │ ┌────── day of month (1 - 31)<br>
   │ │ │ ┌──── month (1 - 12)<br>
-  │ │ │ │ ┌── day of week (0 - 6 => Sunday - Saturday, or<br>
-  │ │ │ │ │                1 - 7 => Monday - Sunday)<br>
+  │ │ │ │ ┌── day of week (0 - 6 => Sunday - Saturday, or 1 - 7 => Monday - Sunday)<br>
+  │ │ │ │ │<br>
   ↓ ↓ ↓ ↓ ↓<br>
   &#42; * * * * command to be executed
  
